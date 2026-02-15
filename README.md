@@ -2,14 +2,14 @@
 <h3 align="center">A Passionate Backend & Devops Engineer /h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00FFA3&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Fullstack+Web+%26+Mobile+App+Developer;Django+%7C+Laravel+%7C+Golang+%7C+React+Native+%7C+Flutter;Clean+Architecture+%7C+REST+API+%7C+UI%2FUX+Focused" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00FFA3&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Backend+&+DevOps+%26+Engineer;Django+%7C+Laravel+%7C+Golang+%7C+React+Native+%7C+Flutter;Clean+Architecture+%7C+REST+API+%7C+UI%2FUX+Focused" alt="Typing SVG">
 </p>
 
 ---
 
 ### 🚀 About Me
 
-Saya adalah seorang **Fullstack Web & Mobile Developer** yang aktif membangun solusi digital yang berdampak dan mudah diakses.  
+Saya adalah seorang **Backend & DevOps Egineer ** yang aktif membangun solusi digital yang berdampak dan mudah diakses.  
 Berbasis di **Pamekasan, Jawa Timur**, saya menggabungkan logika backend yang efisien dan desain UI mobile yang bersih.
 
 🧑‍🎓 Mahasiswa S1 Informatika – Universitas Islam Madura  
