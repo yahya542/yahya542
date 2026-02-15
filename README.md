@@ -15,7 +15,7 @@
 
 ### 🚀 About Me
 
-Saya adalah seorang **Backend & DevOps Egineer ** yang aktif membangun solusi digital yang berdampak dan mudah diakses.  
+Saya adalah seorang **Backend & DevOps Egineer** yang aktif membangun solusi digital yang berdampak dan mudah diakses.  
 Berbasis di **Pamekasan, Jawa Timur**, saya menggabungkan logika backend yang efisien dan desain UI mobile yang bersih.
 
 🧑‍🎓 Mahasiswa S1 Informatika – Universitas Islam Madura  
