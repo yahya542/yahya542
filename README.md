@@ -75,7 +75,7 @@ Saya terbiasa mengembangkan sistem end-to-end mulai dari backend architecture, d
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=yahya542&show_icons=true&theme=transparent&hide_border=true"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=yahya542&theme=transparent&hide_border=true"/>
+
 
 </div>
 
