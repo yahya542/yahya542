@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/profile.png" width="220" style="border-radius: 50%;" alt="profile"/>
-
 # Muhammad Yahya Abdullahissalam
 
 ### Backend Engineer • DevOps Engineer • Linux Enthusiast
